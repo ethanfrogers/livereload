@@ -1,0 +1,6 @@
+{
+	"server_port" : "8080",
+	"watched_directories" : ["/var/www/"],
+	"logging" : false,
+	"log_file": ""
+}
